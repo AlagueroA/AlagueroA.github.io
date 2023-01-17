@@ -7,6 +7,9 @@ author: Antoine Alaguero
 # Theme of the website
 theme : jekyll-theme-minimal
 
+# Quick description
+description : PhD Student
+
 #####################################
 # --- Footer social media links --- #
 #####################################
