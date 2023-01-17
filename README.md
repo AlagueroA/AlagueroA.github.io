@@ -17,12 +17,6 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 - Follow disc dynamics and grain growth to identify the regions of planetesimal formation;  
 - Characterise planetary architectures and the resulting exoplanet population.
 
-[Abstract of the project][about]
-
-
-
-
-
 [about]: https://nicolascuello.github.io/Stellar-MADE/about
 [collaborators]: https://nicolascuello.github.io/Stellar-MADE/collaborators
 [nicolas-cuello]: https://nicolascuello.github.io/Stellar-MADE/nicolas-cuello
