@@ -1,0 +1,21 @@
+# Name of website
+title: Antoine Alaguero
+
+# Your name to show in the footer
+author: Antoine Alaguero
+
+# Theme of the website
+theme : jekyll-theme-minimal
+
+#####################################
+# --- Footer social media links --- #
+#####################################
+
+# Select the social network links that you want to show in the footer.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
+  email: "antoine.alaguero@univ-grenoble-alpes.fr"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+  github: AlagueroA
+  twitter: @AlagueroA
