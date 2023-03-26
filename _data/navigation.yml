@@ -1,14 +1,14 @@
 # Belongs at: /_data/navigation.yml
 
 - title: Home
-  url: /
+  url: 'https://alagueroa.github.io/'
 
-- title: Group of Things
-  url: /group/
+- title: About me
+  url: 'https://alagueroa.github.io/ME'
   sublinks:
     - title: Sub-item 1
-      url: /group/si1
+      url: 'https://alagueroa.github.io/ME'
     - title: Sub-item 2
-      url: /group/si2
+      url: 'https://alagueroa.github.io/ME'
     - title: Sub-item 3
-      url: /group/si3
+      url: 'https://alagueroa.github.io/ME'
