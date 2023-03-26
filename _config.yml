@@ -5,7 +5,7 @@ title: Antoine Alaguero
 author: Antoine Alaguero
 
 # Theme of the website
-theme : jekyll-theme-minimal
+remote_theme : hydra#jekyll-theme-minimal
 
 # Quick description
 description : PhD Student at IPAG 
