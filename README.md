@@ -1,21 +1,25 @@
 # Antoine Alaguero
 
+Descriptif de moi
+
+### Supervisors:
+
+- [François Ménard](francois-menard) (Senior Researcher, IPAG)
+- [Nicolás Cuello](nicolas-cuello) (Postdoc, IPAG)
+
+### Goals of the PhD:
+  
+Court descriptif et lien macro vers une page dédiée
+
+
+### Project
+
 Exploring the effects of **Stellar M**ultiplicity on planet formation **A**cross **D**isc **E**volution.  
 [ERC](https://erc.europa.eu/homepage) Starging Grant: October 2022 - September 2027.  
 Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 
 
-### Members of the team:
 
-- [Nicolás Cuello](nicolas-cuello) (Principal Investigator, IPAG)
-- [Antoine Alaguero](antoine-alaguero) (PhD Student, IPAG)
-
-
-### Goals of this project:
-
-- Establish the formation channels of protoplanetary discs around young stellar objects;  
-- Follow disc dynamics and grain growth to identify the regions of planetesimal formation;  
-- Characterise planetary architectures and the resulting exoplanet population.
 
 [about]: https://nicolascuello.github.io/Stellar-MADE/about
 [collaborators]: https://nicolascuello.github.io/Stellar-MADE/collaborators
