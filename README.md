@@ -1,11 +1,13 @@
 # Antoine Alaguero
 
-Descriptif de moi
+Hi, I am a PhD student in astrophysics at [IPAG](https://ipag.osug.fr) (Grenoble, France) supervised by François Ménard and Nicolás Cuello.
+I am working in the planet formation field and I am especially interested in young multiple stellar system.
+Find more detailed informations about me in the rest of this website !
 
 ### Supervisors:
 
 - [François Ménard](francois-menard) (Senior Researcher, IPAG)
-- [Nicolás Cuello](nicolas-cuello) (Postdoc, IPAG)
+- [Nicolás Cuello](nicolas-cuello) (Chair Professor Junior, IPAG)
 
 ### Goals of the PhD:
   
@@ -18,6 +20,8 @@ Exploring the effects of **Stellar M**ultiplicity on planet formation **A**cross
 [ERC](https://erc.europa.eu/homepage) Starging Grant: October 2022 - September 2027.  
 Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 
+
+### Recent highlights
 
 
 
