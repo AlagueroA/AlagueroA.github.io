@@ -4,6 +4,9 @@ title: Antoine Alaguero
 # Your name to show in the footer
 author: Antoine Alaguero
 
+#
+markdown : kramdown
+
 # Theme of the website
 #remote_theme : millenial#jekyll-theme-cayman
 
