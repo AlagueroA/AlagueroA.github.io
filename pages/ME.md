@@ -1,31 +1,82 @@
-# Antoine Alaguero
+# CV
 
-Descriptif de moi
+I am a french 25 years old PhD Student in astrophysics working at [IPAG](https://ipag.osug.fr) (Grenoble, France) with François Ménard and Nicolás Cuello. I am working in the planet formation field and I am specialized in the study of young multiple stellar systems. 
+I am currently looking for a postdoctoral position.
 
-### Supervisors:
+### Contact 
 
-- [François Ménard](francois-menard) (Senior Researcher, IPAG)
-- [Nicolás Cuello](nicolas-cuello) (Postdoc, IPAG)
+antoine.alaguero@univ-grenoble-alpes.fr
+@AlagueroA
 
-### Goals of the PhD:
+
+### Languages
+
+- French, English
+
+### Education 
+
+Université Grenoble Alpes, Grenoble, France
+
+2021 - 2022 : M2 Astrophysics, ranked 1st/11
+              Magistère de Physique, 3rd year
+
+2020 - 2021 :  M1 Fundamental Research
+               Magistère de Physique, 2nd year
+
+2019-2020 :   Physics Bachelor, 3rd year
+              Magistère de Physique, 1st year
+
+Lycée Camille Vernet, Valence, France
+
+2017-2019 :   Maths-Physics Preparation Programme
+
+
+
+
+### Academic work experiences 
+
+Université Grenoble Alpes, Grenoble, France
+September 2023 - January 2024
+Teaching of geometrical optics to first-year bachelor students at Université Grenoble Alpes
+
+Institut de Planétologie et d'Astrophysique de Grenoble, Grenoble, France
+October 2022 - 
+PhD supervised by N. Cuello & F. Ménard
+Planet Formation in Multiple Systems
+
+Mars - Juin 2022,
+Internship supervised by F. Ménard & M. Benisty
+Planet Formation with the ELT
+
+Juin - Juillet 2021, 
+Internship supervised by N. Cuello 
+Disc dynamics in triple systems
+
+
+### Other work experiences
   
-Court descriptif et lien macro vers une page dédiée
 
 
-### Project
+### Professional Skills
 
-Exploring the effects of **Stellar M**ultiplicity on planet formation **A**cross **D**isc **E**volution.  
-[ERC](https://erc.europa.eu/homepage) Starging Grant: October 2022 - September 2027.  
-Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
+### Personnal Skills
+
+### Publications
+
+### Other activities
+
+Outreach
+
+Institut de Planétologie et d'Astrophysique de Grenoble, Grenoble, France
+Octobre 2022 - 
+Animation of outreach telescope sessions
 
 
+Organization of events
 
+Institut de Planétologie et d'Astrophysique de Grenoble, Grenoble, France
+November 2023
+Co-organization of the laboratory PhD Day
 
-[about]: https://nicolascuello.github.io/Stellar-MADE/about
-[collaborators]: https://nicolascuello.github.io/Stellar-MADE/collaborators
-[nicolas-cuello]: https://nicolascuello.github.io/Stellar-MADE/nicolas-cuello
-[antoine-alaguero]: https://nicolascuello.github.io/Stellar-MADE/antoine-alaguero
-[publications]: https://ui.adsabs.harvard.edu/public-libraries/JlXaxrUKQL2dp176Y2cojQ
-[journalclub]: https://nicolascuello.github.io/Stellar-MADE/journalclub
-[kickoff]: https://nicolascuello.github.io/Stellar-MADE/kickoff
-[drawings]: https://nicolascuello.github.io/Stellar-MADE/drawings
+September 2023 -
+Conducting and co-organizing the ODYSSEY group meetings
