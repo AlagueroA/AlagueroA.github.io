@@ -11,7 +11,12 @@ markdown : kramdown
 #remote_theme : millenial#jekyll-theme-cayman
 
 # Quick description
-description : PhD Student at IPAG 
+description : PhD Student at IPAG
+
+collections:
+  articles:
+    output: true
+    permalink: /:collection/:path/
 
 #####################################
 # --- Footer social media links --- #
