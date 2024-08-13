@@ -11,6 +11,6 @@ title: Highlights
     <ul class="articles">
 
       {% for article in site.articles %}
-        <li><span>{{ article.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        <li><span>{{ article.date | date_to_string }}</span> » <a href="{{ article.url }}" title="{{ article.title }}">{{ article.title }}</a></li>
       {% endfor %}
     </ul>
