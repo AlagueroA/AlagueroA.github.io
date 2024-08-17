@@ -1,7 +1,12 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: #50E3C2;
+    background-image:
+        radial-gradient(at 47% 33%, hsl(162.00, 77%, 40%) 0, transparent 59%),
+        radial-gradient(at 82% 65%, hsl(198.00, 100%, 50%) 0, transparent 55%);
 }
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -40,4 +45,13 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+
+.card {
+    backdrop-filter: blur(16px) saturate(181%);
+    -webkit-backdrop-filter: blur(16px) saturate(181%);
+    background-color: rgba(255, 255, 255, 0.74);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
 }
