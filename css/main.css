@@ -49,18 +49,13 @@ ul.posts li {
 
 
 /* Profile card */
-.card {
+.profile-card {
     backdrop-filter: blur(16px) saturate(181%);
     -webkit-backdrop-filter: blur(16px) saturate(181%);
+    width: 300px;
     background-color: rgba(255, 255, 255, 0.74);
     border-radius: 12px;
     border: 1px solid rgba(209, 213, 219, 0.3);
-}
-
-.profile-card {
-    width: 300px;
-    background-color: #fff;
-    border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
     font-family: Arial, sans-serif;
