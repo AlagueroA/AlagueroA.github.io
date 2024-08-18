@@ -113,12 +113,13 @@ ul.posts li {
 .textbox input[type="text"],
 .textbox textarea {
     padding: 2px;
-    padding-top: 20px;
+    padding-top: 50px;
     font-size: 1.5em;
     color: #333;
     background-color: #50E3C2;
     border: 0px solid #50E3C2;
     border-radius: 0px;
-    height: 450px; /* Default height of the textarea */
-    width: 500px;
+    height: 400px; /* Default height of the textarea */
+    width: 800px;
+    overflow: hidden;
 }
