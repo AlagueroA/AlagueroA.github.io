@@ -130,3 +130,5 @@ ul.posts li {
     font-size: 1.5em;
     color: #333;
 }
+
+#profcard, #side-profcard {float:left; display:inline; width: 49%;}
