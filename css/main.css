@@ -113,11 +113,12 @@ ul.posts li {
 .textbox input[type="text"],
 .textbox textarea {
     padding: 2px;
+    padding-top: 20px;
     font-size: 1.5em;
-    color: #111;
+    color: #333;
     background-color: #50E3C2;
     border: 0px solid #50E3C2;
     border-radius: 0px;
     height: 450px; /* Default height of the textarea */
-    width: 1000px;
+    width: 800px;
 }
