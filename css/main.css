@@ -131,4 +131,4 @@ ul.posts li {
     color: #333;
 }
 
-#profcard, #side-profcard {float:left; display:inline; width: 49%;}
+.profcard, .side-profcard {float:left; display:inline; width: 49%;}
