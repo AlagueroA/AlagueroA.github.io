@@ -121,5 +121,5 @@ ul.posts li {
 }
 .textbox textarea {
     resize: vertical; /* Allows the textarea to be resized vertically */
-    height: 450px; /* Default height of the textarea */
+    height: 650px; /* Default height of the textarea */
 }
