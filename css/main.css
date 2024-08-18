@@ -119,7 +119,14 @@ ul.posts li {
     background-color: #50E3C2;
     border: 0px solid #50E3C2;
     border-radius: 0px;
-    height: 400px; /* Default height of the textarea */
+    height: 200px; /* Default height of the textarea */
     width: 800px;
     overflow: hidden;
+}
+
+.txt-profcard{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 1.5em;
+    color: #333;
 }
