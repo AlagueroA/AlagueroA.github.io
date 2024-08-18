@@ -110,9 +110,15 @@ ul.posts li {
     gap: 10px; /* Space between the textboxes */
 }
 
-.textbox input[type="text"] {
+.textbox input[type="text"],
+.textbox textarea {
     padding: 2px;
     font-size: 1.5em;
     border: 0px solid #50E3C2;
     border-radius: 0px;
+    box-sizing: border-box; /* Ensures padding is included in the element's width */
+}
+.textbox textarea {
+    resize: vertical; /* Allows the textarea to be resized vertically */
+    height: 150px; /* Default height of the textarea */
 }
