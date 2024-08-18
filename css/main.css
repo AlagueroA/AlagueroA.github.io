@@ -118,7 +118,6 @@ ul.posts li {
     background-color: #50E3C2;
     border: 0px solid #50E3C2;
     border-radius: 0px;
-    box-sizing: border-box; /* Ensures padding is included in the element's width */
     height: 450px; /* Default height of the textarea */
     width:1000px;
 }
