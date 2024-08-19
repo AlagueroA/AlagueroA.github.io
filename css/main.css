@@ -101,8 +101,8 @@ ul.posts li {
 }
 
 .profile-card-justification {
-    float: right;
-    margin: 10px;
+    position: absolute;
+    right: 50px;
 }
 
 
@@ -134,13 +134,13 @@ ul.posts li {
         font-weight: 300;
         margin-top: 0;
         margin-bottom: 1px;
-        line-height: 0.3em;
+        line-height: 1em;
     }
     .cv-box-text {
         font-size: 16px;
         font-weight: 200;
         margin-top: 0;
         margin-bottom: 0;
-        line-height: 0.1em;
+        line-height: 0.5em;
     }
 }
