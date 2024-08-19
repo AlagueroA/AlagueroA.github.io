@@ -141,6 +141,6 @@ ul.posts li {
         font-weight: 200;
         margin-top: 0;
         margin-bottom: 2px;
-        line-height: 2em;
+        line-height: 150%;
     }
 }
