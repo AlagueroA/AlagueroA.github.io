@@ -30,7 +30,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em; 
+    font-size: 1.5em;
     color: #333;
 }
 footer {
@@ -100,38 +100,11 @@ ul.posts li {
     text-decoration: underline;
 }
 
-
-
-
-/* Textbox */
-.grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr; /* Two columns of equal width */
-    gap: 10px; /* Space between the textboxes */
+.profile-card-justification {
+    position: fixed;
+    right: 500px;
+    top: 10px;
 }
-
-.textbox input[type="text"],
-.textbox textarea {
-    padding: 2px;
-    padding-top: 50px;
-    font-size: 1.5em;
-    color: #333;
-    background-color: #50E3C2;
-    border: 0px solid #50E3C2;
-    border-radius: 0px;
-    height: 200px; /* Default height of the textarea */
-    width: 800px;
-    overflow: hidden;
-}
-
-.txt-profcard{
-    display: inline-block;
-    vertical-align: top;
-    font-size: 1.5em;
-    color: #333;
-}
-
-.profcard, .side-profcard {float:left; display:inline; width: 49%;}
 
 
 /* CV box, wrapper for a category of the CV */
