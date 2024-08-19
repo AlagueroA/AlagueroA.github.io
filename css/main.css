@@ -101,9 +101,8 @@ ul.posts li {
 }
 
 .profile-card-justification {
-    position: fixed;
-    right: 500px;
-    top: 10px;
+    float: right;
+    margin: 10px;
 }
 
 
