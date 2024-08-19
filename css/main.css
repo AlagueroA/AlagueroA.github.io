@@ -145,6 +145,13 @@ ul.posts li {
         margin-top: 0;
         margin-bottom: 15px;
     }
+    .cv-box-subtitle {
+        text-transform: uppercase;
+        font-size: 20px;
+        font-weight: 700;
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
     .cv-box-place {
         font-size: 19px;
         font-weight: 700;
