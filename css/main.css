@@ -133,3 +133,34 @@ ul.posts li {
 }
 
 .profcard, .side-profcard {float:left; display:inline; width: 49%;}
+
+
+/* CV box, wrapper for a category of the CV */
+.cv-box{
+    
+    .cv-box-title {
+        text-transform: uppercase;
+        font-size: 25px;
+        font-weight: 700;
+        margin-top: 0;
+        margin-bottom: 15px;
+    }
+    .cv-box-place {
+        font-size: 20px;
+        font-weight: 700;
+        margin-top: 0;
+        margin-bottom: 15px;
+    }
+    .cv-box-date {
+        font-size: 16px;
+        font-weight: 200;
+        margin-top: 0;
+        margin-bottom: 15px;
+    }
+    .cv-box-text {
+        font-size: 16px;
+        font-weight: 200;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+}
