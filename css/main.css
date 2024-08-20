@@ -145,7 +145,8 @@ ul.posts li {
     }
     
     cv-box-icon {    
-        text-align: center;
+        text-align: justify;
+        text-anchor: middle;
         width: 50px;
     }
 
