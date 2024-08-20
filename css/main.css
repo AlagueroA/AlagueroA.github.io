@@ -146,7 +146,7 @@ ul.posts li {
     
     cv-box-icon {    
         text-align: justify;
-        height: 70;
+        width: 50px;
     }
 
     .cv-box-icon img {
