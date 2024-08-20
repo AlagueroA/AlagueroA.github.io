@@ -154,3 +154,14 @@ ul.posts li {
         margin: 0 auto;
     }
 }
+
+
+/* rows & columns */
+.row {
+  display: flex;
+}
+
+.column_3 {
+  flex: 33.33%;
+  padding: 5px;
+}
