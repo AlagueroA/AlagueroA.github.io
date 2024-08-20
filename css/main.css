@@ -154,6 +154,11 @@ ul.posts li {
         display: block;
         margin: 0 auto;
     }
+    
+    .cv-box-icon p {
+        text-align: justify;
+        text-anchor: middle;
+    }
 }
 
 
