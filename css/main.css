@@ -143,4 +143,14 @@ ul.posts li {
         margin-bottom: 4px;
         line-height: 200%;
     }
+    
+    cv-box-icon {    
+        text-align: justify;
+        height: 70;
+    }
+
+    .cv-box-icon img {
+        display: block;
+        margin: 0 auto;
+    }
 }
