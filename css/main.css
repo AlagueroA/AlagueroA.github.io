@@ -74,6 +74,27 @@ ul.posts li {
      object-fit: cover; /* Ensures the image covers the container */
 }
 
+.profile-card-logo-container {
+    position: relative; /* This makes the container a positioned element */
+    display: inline-block; /* This keeps the container's size based on the main image */
+}
+
+.profile-card-logo-img {
+    display: block; /* Block level to avoid any extra spacing issues */
+    max-width: 100%; /* Ensures the image scales correctly */
+    height: auto; /* Maintains the aspect ratio */
+}
+
+.profile-card-inset-logo {
+    position: absolute; /* Positions the inset image relative to the container */
+    bottom: 10px; /* 10px from the bottom */
+    right: 10px; /* 10px from the right */
+    width: 20%; /* Scales the inset image, adjust as needed */
+    border-radius: 50%; /* Optional: makes the inset image circular */
+    border: 2px solid white; /* Optional: adds a border around the inset image */
+}
+
+
 .profile-card-body {
     padding: 20px;
 }
