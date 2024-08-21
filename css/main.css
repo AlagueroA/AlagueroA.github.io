@@ -87,11 +87,9 @@ ul.posts li {
 
 .profile-card-inset-logo {
     position: absolute; /* Positions the inset image relative to the container */
-    bottom: 10px; /* 10px from the bottom */
+    bottom: 3px; /* 10px from the bottom */
     right: 10px; /* 10px from the right */
     width: 20%; /* Scales the inset image, adjust as needed */
-    border-radius: 50%; /* Optional: makes the inset image circular */
-    border: 2px solid white; /* Optional: adds a border around the inset image */
 }
 
 
@@ -112,7 +110,7 @@ ul.posts li {
 
 .profile-card-footer {
     background-color: #f4f4f4;
-    padding: 5px 0;
+    padding: 12px 0;
 }
 
 .profile-card-footer a {
@@ -124,11 +122,6 @@ ul.posts li {
 
 .profile-card-footer a:hover {
     text-decoration: underline;
-}
-
-.profile-card-justification {
-    position: absolute;
-    right: 50px;
 }
 
 
