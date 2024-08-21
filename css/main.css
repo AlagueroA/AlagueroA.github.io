@@ -26,7 +26,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 2.5em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
@@ -143,13 +143,13 @@ ul.posts li {
     color: #333; /* Optional: change the text color */
 }
 
-.icon-caption a {
+a.icon-caption {
     font-size: 20px; /* Adjust the font size as needed */
     color: #333; /* Optional: change the text color */
     text-decoration: none;
-    font-weight: 400;
+    font-weight: 600;
 }
-.icon-caption a:hover {
+a.icon-caption a:hover {
     text-decoration: none;
 }
 
