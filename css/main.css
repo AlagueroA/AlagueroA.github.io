@@ -143,6 +143,14 @@ ul.posts li {
     color: #333; /* Optional: change the text color */
 }
 
+.icon-caption a {
+    font-size: 18px; /* Adjust the font size as needed */
+    color: #333; /* Optional: change the text color */
+    text-decoration: none;
+}
+.icon-caption a:hover {
+    text-decoration: none;
+}
 
 /* CV box, wrapper for a category of the CV */
 .cv-box{
