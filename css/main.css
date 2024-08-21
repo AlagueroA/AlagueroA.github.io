@@ -87,7 +87,7 @@ ul.posts li {
 
 .profile-card-inset-logo {
     position: absolute; /* Positions the inset image relative to the container */
-    bottom: 3px; /* 10px from the bottom */
+    bottom: 0px; /* 10px from the bottom */
     right: 10px; /* 10px from the right */
     width: 20%; /* Scales the inset image, adjust as needed */
     border: none;
