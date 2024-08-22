@@ -55,6 +55,28 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
+.navbar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  text-align: center;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #04AA6D;
+}
 
 
 
@@ -191,8 +213,8 @@ a.icon-caption a:hover {
 }
 
 .progress-circle {
-    width: 20px; /* Size of each circle */
-    height: 20px;
+    width: 18px; /* Size of each circle */
+    height: 18px;
     border-radius: 50%; /* Makes the elements circular */
     background-color: #e0e0e0; /* Color for empty circles */
     border: solid;
