@@ -195,7 +195,7 @@ a.icon-caption a:hover {
     border-radius: 50%; /* Makes the elements circular */
     background-color: #e0e0e0; /* Color for empty circles */
     border: solid;
-    border-width: 3px;
+    border-width: 200%;
     border-color: #333;
 }
 
