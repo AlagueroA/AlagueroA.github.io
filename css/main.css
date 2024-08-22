@@ -177,6 +177,8 @@ a.icon-caption a:hover {
     height: 20px;
     border-radius: 50%; /* Makes the elements circular */
     background-color: #e0e0e0; /* Color for empty circles */
+    border-width: 3px;
+    border-color: #333;
 }
 
 .progress-circle.filled {
