@@ -153,6 +153,37 @@ a.icon-caption a:hover {
     text-decoration: none;
 }
 
+
+/* Progress bar with circles */
+.progress-wrapper {
+    display: flex; /* Aligns text and progress bar horizontally */
+    align-items: center; /* Centers them vertically */
+}
+
+.progress-text {
+    margin-right: 10px; /* Space between text and progress bar */
+    font-size: 16px; /* Adjust font size as needed */
+    color: #333; /* Text color */
+}
+
+.progress-container {
+    display: flex; /* Aligns circles horizontally */
+    justify-content: space-between; /* Spaces circles evenly */
+    width: 300px; /* Width of the entire progress bar */
+}
+
+.progress-circle {
+    width: 30px; /* Size of each circle */
+    height: 30px;
+    border-radius: 50%; /* Makes the elements circular */
+    background-color: #e0e0e0; /* Color for empty circles */
+}
+
+.progress-circle.filled {
+    background-color: #76c7c0; /* Color for filled circles */
+}
+
+
 /* CV box, wrapper for a category of the CV */
 .cv-box{
     
