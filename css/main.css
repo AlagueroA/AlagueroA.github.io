@@ -173,8 +173,8 @@ a.icon-caption a:hover {
 }
 
 .progress-circle {
-    width: 30px; /* Size of each circle */
-    height: 30px;
+    width: 20px; /* Size of each circle */
+    height: 20px;
     border-radius: 50%; /* Makes the elements circular */
     background-color: #e0e0e0; /* Color for empty circles */
 }
