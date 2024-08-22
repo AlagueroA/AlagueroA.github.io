@@ -7,17 +7,6 @@ body {
         radial-gradient(at 82% 65%, hsl(198.00, 100%, 50%) 0, transparent 55%);
 }
 
-nav ul, footer ul {
-    font-size: 2.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
 a {
     text-decoration: none;
     color: #999;
@@ -51,6 +40,22 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+
+/* Navigation bar */
+nav ul, footer ul {
+    font-size: 2.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
 
 
 /* Profile card */
@@ -126,6 +131,18 @@ ul.posts li {
 }
 
 
+/* Long arrow */
+.arrow-container {
+    display: flex; /* Aligns arrow and text horizontally */
+    align-items: center; /* Vertically center-align text and arrow */
+}
+
+.arrow {
+    margin-right: 10px; /* Space between arrow and text */
+}
+
+
+
 /* Summary of the 'About' page with icons */
 .icon-container {
     text-align: center; /* Centers the content inside the container */
@@ -177,6 +194,7 @@ a.icon-caption a:hover {
     height: 20px;
     border-radius: 50%; /* Makes the elements circular */
     background-color: #e0e0e0; /* Color for empty circles */
+    border: solid;
     border-width: 3px;
     border-color: #333;
 }
