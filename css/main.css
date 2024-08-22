@@ -187,7 +187,7 @@ a.icon-caption a:hover {
     display: flex; /* Aligns circles horizontally */
     justify-content: space-between; /* Spaces circles evenly */
     width: 300px; /* Width of the entire progress bar */
-    margin-left: 1%;
+    margin-left: 100px;
 }
 
 .progress-circle {
