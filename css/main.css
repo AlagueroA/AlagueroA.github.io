@@ -116,6 +116,35 @@ a.link-navbar a:hover {
 }
 
 
+/* Footer bar */
+.footbar {
+  width: 100%;
+  background-color: var(--navbar-color);
+  background-image: linear-gradient(
+    90deg,
+    hsl(209deg 26% 35%) 1%,
+    hsl(209deg 26% 39%) 63%,
+    hsl(209deg 26% 44%) 80%,
+    hsl(210deg 26% 48%) 90%,
+    hsl(260deg 18% 62%) 95%,
+    hsl(332deg 31% 72%) 98%,
+    hsl(6deg 68% 84%) 100%
+  );
+  overflow: auto;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 1000;
+  padding: 20px;
+  border-top: solid;
+  border-width: 20%;
+  border-color: var(--primary-color);
+}
+
+
+
 /* Profile card */
 .profile-card {
     backdrop-filter: blur(16px) saturate(181%);
@@ -123,7 +152,7 @@ a.link-navbar a:hover {
     width: 300px;
     background-color: rgba(255, 255, 255, 0.74);
     border-radius: 12px;
-    border: 10% solid var(--secondary-color);
+    border: 50% solid var(--secondary-color);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
     font-family: Arial, sans-serif;
@@ -131,7 +160,7 @@ a.link-navbar a:hover {
 }
 
 .profile-card h2 {
-    font-size: 22px;
+    font-size: 25px;
     color: var(--background-color);
 }
 
