@@ -9,10 +9,10 @@
 
 :root {
     --primary-color: #DCD7D0;
-    --secondary-color: #FBA89D;
+    --secondary-color: #ECA198;
     --background-color: #425A71;
     --navbar-color: #5B7B9A;
-    --links-color: #F64028;
+    --links-color: #F8624F;
 }
 
 
@@ -35,7 +35,7 @@ h1 {
 }
 p {
     font-size: 1.5em;
-    color: color: var(--primary-color);;
+    color: var(--primary-color);;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
@@ -73,7 +73,7 @@ ul.posts li {
 
 .navbar {
   width: 100%;
-  background-color: var(--background-color);
+  background-color: var(--navbar-color);
   overflow: auto;
   display: flex;
   align-items: center;
