@@ -35,7 +35,7 @@ h1 {
 }
 p {
     font-size: 1.5em;
-    color: var(--primary-color);;
+    color: var(--primary-color);
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
@@ -77,6 +77,12 @@ ul.posts li {
   overflow: auto;
   display: flex;
   align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
 }
 
 .navbar a {
@@ -198,12 +204,12 @@ ul.posts li {
 .icon-caption {
     margin-top: 10px; /* Margin between the image and the caption */
     font-size: 18px; /* Adjust the font size as needed */
-    color: #333; /* Optional: change the text color */
+    color: var(--primary-color); /* Optional: change the text color */
 }
 
 a.icon-caption {
     font-size: 20px; /* Adjust the font size as needed */
-    color: color: var(--primary-color);; /* Optional: change the text color */
+    color: var(--primary-color); /* Optional: change the text color */
     text-decoration: none;
     font-weight: 600;
 }
@@ -235,14 +241,14 @@ a.icon-caption a:hover {
     width: 18px; /* Size of each circle */
     height: 18px;
     border-radius: 50%; /* Makes the elements circular */
-    background-color: #e0e0e0; /* Color for empty circles */
+    background-color: var(--background-color); /* Color for empty circles */
     border: solid;
     border-width: 200%;
-    border-color: #333;
+    border-color: var(--primary-color);
 }
 
 .progress-circle.filled {
-    background-color: #76c7c0; /* Color for filled circles */
+    background-color: var(--primary-color); /* Color for filled circles */
 }
 
 
