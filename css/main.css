@@ -32,6 +32,7 @@ a:hover {
 }
 h1 {
     font-size: 2em;
+    color: var(--secondary-color);
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
@@ -70,11 +71,12 @@ ul.posts li {
   top: 0;
   left: 0;
   z-index: 1000;
+  padding: 20px;
 }
 
 }
 
-.navbar a {
+a.navbar {
   float: left;
   text-align: center;
   padding: 12px;
@@ -84,7 +86,7 @@ ul.posts li {
   font-weight: 700;
 }
 
-.navbar a:hover {
+a.navbar a:hover {
   background-color: #000;
 }
 
