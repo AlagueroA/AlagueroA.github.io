@@ -9,7 +9,7 @@
 
 :root {
     --primary-color: #DCD7D0;
-    --secondary-color: #EFB0A9;
+    --secondary-color: #F2C0BA;
     --background-color: #425A71;
     --navbar-color: #5B7B9A;
     --links-color: #F8624F;
@@ -76,7 +76,7 @@ ul.posts li {
 
 }
 
-a.navbar {
+a.link-navbar {
   text-align: center;
   color: white;
   text-decoration: none;
@@ -84,7 +84,7 @@ a.navbar {
   font-weight: 700;
 }
 
-a.navbar a:hover {
+a.link-navbar a:hover {
   background-color: #000;
 }
 
