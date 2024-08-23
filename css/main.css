@@ -74,6 +74,16 @@ ul.posts li {
 .navbar {
   width: 100%;
   background-color: var(--navbar-color);
+  background-image: linear-gradient(
+    90deg,
+    hsl(209deg 26% 35%) 1%,
+    hsl(209deg 26% 39%) 63%,
+    hsl(209deg 26% 44%) 80%,
+    hsl(210deg 26% 48%) 90%,
+    hsl(260deg 18% 62%) 95%,
+    hsl(332deg 31% 72%) 98%,
+    hsl(6deg 68% 84%) 100%
+  );
   overflow: auto;
   display: flex;
   align-items: center;
@@ -120,6 +130,15 @@ a.link-navbar a:hover {
     overflow: hidden;
 }
 
+.profile-card h2 {
+    font-size: 22px;
+    color: var(--background-color);
+}
+
+.profile-card p {
+    color: var(--background-color);
+}
+
 .profile-card-header img {
     width: 150px;
     height: 150px;
@@ -149,17 +168,6 @@ a.link-navbar a:hover {
 
 .profile-card-body {
     padding: 20px;
-}
-
-.profile-card-body h2 {
-    margin: 0;
-    font-size: 22px;
-    color: var(--background-color);
-}
-
-.profile-card-body p {
-    margin: 10px 0;
-    color: var(--background-color);
 }
 
 .profile-card-footer {
