@@ -99,7 +99,7 @@ ul.posts li {
 
 }
 
-.link-navbar a {
+.linknavbar a {
   text-align: center;
   color: white;
   text-decoration: none;
@@ -107,7 +107,7 @@ ul.posts li {
   font-weight: 700;
 }
 
-.link-navbar a:hover {
+.linknavbar a:hover {
   background-color: #000;
 }
 
@@ -136,6 +136,7 @@ ul.posts li {
   align-items: center;
   z-index: 1000;
   padding: 20px;
+  margin-top: 20px;
   border-top: solid;
   border-width: 20%;
   border-color: var(--primary-color);
