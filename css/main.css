@@ -99,7 +99,7 @@ ul.posts li {
 
 }
 
-a.link-navbar {
+.link-navbar a {
   text-align: center;
   color: white;
   text-decoration: none;
@@ -107,7 +107,7 @@ a.link-navbar {
   font-weight: 700;
 }
 
-a.link-navbar a:hover {
+.link-navbar a:hover {
   background-color: #000;
 }
 
@@ -119,6 +119,7 @@ a.link-navbar a:hover {
 /* Footer bar */
 .footbar {
   width: 100%;
+  position: relative;
   background-color: var(--navbar-color);
   background-image: linear-gradient(
     90deg,
@@ -368,6 +369,6 @@ a.icon-caption a:hover {
 }
 
 .column_8 {
-  flex: 25.0%;
+  flex: 12.5%;
   padding: 5px;
 }
