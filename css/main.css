@@ -86,7 +86,7 @@ ul.posts li {
   );
   overflow: auto;
   display: flex;
-  align-items: center;
+  align-content: center;
   position: fixed;
   top: 0;
   left: 0;
@@ -118,7 +118,7 @@ ul.posts li {
 
 /* Footer bar */
 .footbar {
-  width: 100%;
+  width: 150%;
   position: relative;
   background-color: var(--navbar-color);
   background-image: linear-gradient(
@@ -135,7 +135,7 @@ ul.posts li {
   display: flex;
   align-items: center;
   z-index: 1000;
-  padding: 20px;
+  padding: 10px;
   margin-top: 20px;
   border-top: solid;
   border-width: 20%;
@@ -143,6 +143,15 @@ ul.posts li {
 }
 
 
+/* Raccoon image */
+.raccoon-image {
+    position: absolute;
+    top: 0;
+    left: -100px; /* Move the image to the left, causing it to be cropped */
+    width: 400px; /* Set the width of the image */
+    height: auto; /* Maintain aspect ratio */
+    z-index: -1; /* Ensure the image is behind other content */
+}
 
 /* Profile card */
 .profile-card {
