@@ -359,26 +359,26 @@ a.icon-caption a:hover {
 /* Articles styling */
 .article-wrapper {
     
-    .article-title {
+    p.article-title {
         margin-top: 10px;
         font-size: 23px;
         font-weight: 700;
         color: var(--secondary-color);
     }
     
-    article-authors p {
+    p.article-authors {
         font-size: 18px;
         font-weight: 500;
         color: var(--primary-color)
     }
     
-    article-abstract p {
+    p.article-abstract {
         font-size: 18px;
         font-weight: 250;
         color: var(--primary-color)
     }
     
-    article-links a {
+    a.article-links {
         font-size: 18px;
         font-weight: 300;
         color: var(--links-color)
