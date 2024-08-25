@@ -358,14 +358,32 @@ a.icon-caption a:hover {
 
 /* Articles styling */
 .article-wrapper {
-    padding: 5px;
-    margin-top: 20px;
-    border-top: solid;
-    border-bottom: solid;
-    border-width: 20%;
-    border-color: var(--primary-color);
-    display: flex; /* Aligns text and progress bar horizontally */
-    align-items: center; /* Centers them vertically */
+    
+    .article-title {
+        margin-top: 10px;
+        font-size: 23px;
+        font-weight: 700;
+        color: var(--secondary-color);
+    }
+    
+    article-authors {
+        font-size: 18px;
+        font-weight: 500;
+        color: var(--primary-color)
+    }
+    
+    article-abstract {
+        font-size: 18px;
+        font-weight: 250;
+        color: var(--primary-color)
+    }
+    
+    article-abstract {
+        font-size: 18px;
+        font-weight: 300;
+        color: var(--links-color)
+    }
+        
 }
 
 

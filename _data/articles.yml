@@ -8,7 +8,7 @@
   abstract: "This article provides an in-depth look at the current understanding of the universe..."
   links:
     - url: "https://example.com/full-article"
-      label: "Full Article"
+      label: "View on ADS"
     - url: "https://example.com/pdf-download"
       label: "Download PDF"
 
@@ -17,6 +17,6 @@
   abstract: "An overview of the latest developments in astrophysics, focusing on black hole research..."
   links:
     - url: "https://example.com/full-article2"
-      label: "Full Article"
+      label: "View on ADS"
     - url: "https://example.com/pdf-download2"
       label: "Download PDF"

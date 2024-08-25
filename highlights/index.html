@@ -5,7 +5,7 @@ title: Highlights
 <!--<div class="blurb">-->
 <!--	<h1>Planet formation folks, you're at the right place.</h1>-->
 <!--	<p>Find below a list of my most recent articles.</p>-->
-<!--</div><!-- /.blurb -->-->
+<!--</div><!-- /.blurb -->
 
 
 
@@ -13,18 +13,22 @@ title: Highlights
 
 <h1>Scientific Highlights</h1>
 
-<div class="articles-list">
+<div class="article-wrapper">
   {% for article in site.data.articles %}
-    <div class="article-item">
-      <h2>{{ article.title }}</h2>
-      <p><strong>Authors:</strong> {{ article.authors }}</p>
-      <p><strong>Abstract:</strong> {{ article.abstract }}</p>
-      <p><strong>Links:</strong>
+    <div class="article-title">
+        {{ article.title }}
+    </div>
+    <div class="article-authors">
+        {{ article.authors }}
+    </div>
+    <div class="article-abstract">
+        {{ article.abstract }}
+    </div>
+    <div class="article-links">
         {% for link in article.links %}
           <a href="{{ link.url }}" target="_blank">{{ link.label }}</a>
           {% unless forloop.last %} | {% endunless %}
         {% endfor %}
-      </p>
     </div>
     <hr>
   {% endfor %}
