@@ -356,6 +356,23 @@ a.icon-caption a:hover {
 }
 
 
+/* Articles styling */
+.article-wrapper {
+    padding: 5px;
+    margin-top: 20px;
+    border-top: solid;
+    border-bottom: solid;
+    border-width: 20%;
+    border-color: var(--primary-color);
+    display: flex; /* Aligns text and progress bar horizontally */
+    align-items: center; /* Centers them vertically */
+}
+
+
+
+
+
+
 /* rows & columns */
 .row {
   display: flex;
