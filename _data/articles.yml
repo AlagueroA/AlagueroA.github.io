@@ -1,0 +1,22 @@
+# Belongs at: /_data/articles.yml
+
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+- title: "Understanding the Universe: A Comprehensive Guide"
+  authors: "John Doe, Jane Smith"
+  abstract: "This article provides an in-depth look at the current understanding of the universe..."
+  links:
+    - url: "https://example.com/full-article"
+      label: "Full Article"
+    - url: "https://example.com/pdf-download"
+      label: "Download PDF"
+
+- title: "Advances in Astrophysics"
+  authors: "Alice Johnson, Robert Brown"
+  abstract: "An overview of the latest developments in astrophysics, focusing on black hole research..."
+  links:
+    - url: "https://example.com/full-article2"
+      label: "Full Article"
+    - url: "https://example.com/pdf-download2"
+      label: "Download PDF"
