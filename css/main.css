@@ -366,19 +366,19 @@ a.icon-caption a:hover {
         color: var(--secondary-color);
     }
     
-    article-authors {
+    article-authors p {
         font-size: 18px;
         font-weight: 500;
         color: var(--primary-color)
     }
     
-    article-abstract {
+    article-abstract p {
         font-size: 18px;
         font-weight: 250;
         color: var(--primary-color)
     }
     
-    article-abstract {
+    article-links a {
         font-size: 18px;
         font-weight: 300;
         color: var(--links-color)
