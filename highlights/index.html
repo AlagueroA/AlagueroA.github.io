@@ -18,10 +18,10 @@ title: Highlights
         <p class="article-title">{{ article.title }}</p>
         <p class="article-authors">{{ article.authors }}</p>
         <p class="article-abstract">{{ article.abstract }}</p>
-            {% for link in article.links %}
-                <a class="article-links" href="{{ link.url }}" target="_blank">{{ link.label }}</a>
-                {% unless forloop.last %} | {% endunless %}
-            {% endfor %}
-        <hr>
+        {% for link in article.links %}
+            <a class="article-links" href="{{ link.url }}" target="_blank">{{ link.label }}</a>
+            {% unless forloop.last %} | {% endunless %}
+        {% endfor %}
+    <hr>
   {% endfor %}
 </div>
