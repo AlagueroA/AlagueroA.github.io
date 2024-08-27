@@ -19,7 +19,7 @@
 /* Main structure */
 body {
     margin: 60px auto;
-    width: 90%;
+    width: 70%;
     background-color: var(--background-color);
     background-image: linear-gradient(
       90deg,
@@ -57,19 +57,34 @@ p.center {
 
 
 /* Navigation bar */
+/*.navbar {*/
+/*  width: 100%;*/
+/*  background-color: var(--navbar-color);*/
+/*  background-image: linear-gradient(*/
+/*    90deg,*/
+/*    hsl(209deg 26% 35%) 1%,*/
+/*    hsl(209deg 26% 39%) 63%,*/
+/*    hsl(209deg 26% 44%) 80%,*/
+/*    hsl(210deg 26% 48%) 90%,*/
+/*    hsl(260deg 18% 62%) 95%,*/
+/*    hsl(332deg 31% 72%) 98%,*/
+/*    hsl(6deg 68% 84%) 100%*/
+/*  );*/
+/*  overflow: auto;*/
+/*  display: flex;*/
+/*  align-content: center;*/
+/*  position: fixed;*/
+/*  top: 0;*/
+/*  left: 0;*/
+/*  z-index: 1000;*/
+/*  padding: 7px;*/
+/*  border-bottom: solid;*/
+/*  border-width: 20%;*/
+/*  border-color: var(--primary-color);*/
+/*}*/
 .navbar {
   width: 100%;
-  background-color: var(--navbar-color);
-  background-image: linear-gradient(
-    90deg,
-    hsl(209deg 26% 35%) 1%,
-    hsl(209deg 26% 39%) 63%,
-    hsl(209deg 26% 44%) 80%,
-    hsl(210deg 26% 48%) 90%,
-    hsl(260deg 18% 62%) 95%,
-    hsl(332deg 31% 72%) 98%,
-    hsl(6deg 68% 84%) 100%
-  );
+  background-color: rgba(255, 122, 89, 0.0);
   overflow: auto;
   display: flex;
   align-content: center;
@@ -105,17 +120,7 @@ p.center {
 /* Footer bar */
 .footbar {
   width: 100%;
-  background-color: var(--navbar-color);
-  background-image: linear-gradient(
-    90deg,
-    hsl(209deg 26% 35%) 1%,
-    hsl(209deg 26% 39%) 63%,
-    hsl(209deg 26% 44%) 80%,
-    hsl(210deg 26% 48%) 90%,
-    hsl(260deg 18% 62%) 95%,
-    hsl(332deg 31% 72%) 98%,
-    hsl(6deg 68% 84%) 100%
-  );
+  background-color: rgba(255, 122, 89, 0.0);
   overflow: auto;
   display: flex;
   align-items: center;
