@@ -117,7 +117,7 @@ p.center {
   border-top: solid;
   border-width: 20%;
   border-color: var(--primary-color);
-  font-size: 16px;
+  font-size: 13px;
   font-style: italic;
   font-weight: 250;
 }

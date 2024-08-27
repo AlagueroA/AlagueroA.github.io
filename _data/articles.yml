@@ -11,12 +11,3 @@
       label: "View on ADS"
     - url: "/assets/articles/Alaguero+2024-VTau.pdf"
       label: "Download PDF"
-
-- title: "Advances in Astrophysics"
-  authors: "Alice Johnson, Robert Brown"
-  abstract: "An overview of the latest developments in astrophysics, focusing on black hole research..."
-  links:
-    - url: "https://example.com/full-article2"
-      label: "View on ADS"
-    - url: "https://example.com/pdf-download2"
-      label: "Download PDF"
