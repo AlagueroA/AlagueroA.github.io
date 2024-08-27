@@ -137,6 +137,33 @@ p.center {
     z-index: -1; /* Ensure the image is behind other content */
 }
 
+
+/* PhD top of the page */
+.phd-title {
+    font-size: 25px;
+    font-weight: 700;
+    font-style: italic;
+    color: var(--secondary-color);
+}
+
+.phd-supervisors {
+    font-size: 25px;
+    font-weight: 700;
+    color: var(--primary-color);
+}
+
+.phd-randomtxt {
+    font-size: 22px;
+    font-weight: 300;
+    color: var(--primary-color);
+}
+
+.phd-links {
+    font-size: 25px;
+    font-weight: 700;
+    color: var(--links-color);
+}
+
 /* Profile card */
 .profile-card {
     backdrop-filter: blur(16px) saturate(181%);
