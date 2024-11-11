@@ -243,8 +243,8 @@ p.center {
 .profile-card-header img {
     width: 150px;
     height: 150px;
-    border-radius: 57% 43% 70% 30% / 37% 40% 60% 63% ; /* Makes the image circular */
-     object-fit: cover; /* Ensures the image covers the container */
+    /*border-radius: 57% 43% 70% 30% / 37% 40% 60% 63% ; /* Makes the image circular */
+    object-fit: cover; /* Ensures the image covers the container */
 }
 
 .profile-card-logo-container {
